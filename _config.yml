@@ -2,6 +2,7 @@ name: davekeyes
 favicon: null
 layout_spectrum: 0.51769
 typography_spectrum: 1
+title: Pattern Library
 cta:
   domain: null
   bucket: null
